@@ -8,11 +8,11 @@ Designing intelligent systems that bridge the gap between raw data and productio
 ---
 
 <p align="center">
-<a href="mailto:@gmail.com">
+<a href="mailto:shanmathyravisankaran03@gmail.com">
 <img src="https://img.shields.io/badge/Email-@gmail.com-red?style=for-the-badge&logo=gmail">
 </a>
 
-<a href="https://github.com/">
+<a href="https://github.com/shanmathy-ravisankaran">
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
 </a>
 
@@ -192,13 +192,13 @@ Anna University, India
 
 <p align="center">
 
-<b>Email:</b> @gmail.com
+<b>Email:</b> shanmathyravisankaran03@gmail.com
 
 <b>Location:</b> Texas, USA
 
-<b>GitHub:</b> github.com/
+<b>GitHub:</b> https://github.com/shanmathy-ravisankaran
 
-<b>Portfolio:</b> [Visit Portfolio](#)
+<b>Portfolio:</b> https://shanmathy-ravisankaran.github.io/portfolio/
 
 </p>
 
