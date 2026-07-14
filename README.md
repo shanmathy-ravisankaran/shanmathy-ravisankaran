@@ -17,10 +17,6 @@ Designing intelligent systems that bridge the gap between raw data and productio
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=vercel">
-</a>
-
-<a href="#">
 <img src="https://img.shields.io/badge/Location-Texas,USA-green?style=for-the-badge&logo=googlemaps">
 </a>
 </p>
@@ -85,19 +81,6 @@ Experienced in <b>Multi-Agent Systems, RAG, LangGraph, LangChain, and OpenAI SDK
 ---
 
 <h2 align="center">💼 PROFESSIONAL EXPERIENCE</h2>
-
-<h3>AI Engineer — Cognizant</h3>
-<p><b>Texas, USA | Feb 2026 – Present</b></p>
-
-<ul>
-<li>Designing and implementing <b>ML-ready data pipelines</b> using Python (Pandas, NumPy) to process simulation and survey data, improving feature availability for modeling by <b>30%</b>.</li>
-<li>Developing and optimizing <b>RESTful backend services using Flask</b> for real-time data ingestion and model inference workflows, reducing response latency.</li>
-<li>Performing advanced data preprocessing — missing value imputation, categorical encoding, and feature scaling — to enable reliable predictive model inputs.</li>
-<li>Building <b>rule-based and ML-assisted validation mechanisms</b>, reducing data inconsistencies and improving system accuracy by <b>25%</b>.</li>
-<li>Collaborating with product managers and engineering teams to translate business requirements into measurable <b>KPIs and AI-driven insights</b>.</li>
-</ul>
-
----
 
 <h3>Application Development Analyst — Accenture</h3>
 <p><b>India | May 2021 – Dec 2023</b></p>
