@@ -181,8 +181,6 @@ Anna University, India
 
 <b>GitHub:</b> https://github.com/shanmathy-ravisankaran
 
-<b>Portfolio:</b> https://shanmathy-ravisankaran.github.io/portfolio/
-
 </p>
 
 ---
