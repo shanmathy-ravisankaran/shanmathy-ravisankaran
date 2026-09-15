@@ -2,14 +2,14 @@
 <h3 align="center">⚡ AI ENGINEER</h3>
 
 <p align="center">
-Designing intelligent systems that bridge the gap between raw data and production-ready AI.
+Designing intelligent AI, ML, and GenAI systems that turn large-scale data into measurable business impact.
 </p>
 
 ---
 
 <p align="center">
-<a href="mailto:shanmathyravisankaran03@gmail.com">
-<img src="https://img.shields.io/badge/Email-@gmail.com-red?style=for-the-badge&logo=gmail">
+<a href="mailto:shanmathy.ravi99@gmail.com">
+<img src="https://img.shields.io/badge/Email-shanmathy.ravi99@gmail.com-red?style=for-the-badge&logo=gmail">
 </a>
 
 <a href="https://github.com/shanmathy-ravisankaran">
@@ -17,7 +17,15 @@ Designing intelligent systems that bridge the gap between raw data and productio
 </a>
 
 <a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="#">
 <img src="https://img.shields.io/badge/Location-Texas,USA-green?style=for-the-badge&logo=googlemaps">
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Phone-254--321--2543-lightgrey?style=for-the-badge&logo=phone">
 </a>
 </p>
 
@@ -26,15 +34,15 @@ Designing intelligent systems that bridge the gap between raw data and productio
 <h2 align="center">🧠 PROFESSIONAL SUMMARY</h2>
 
 <p align="center">
-AI Engineer with hands-on experience designing <b>ML-ready data pipelines</b> and deploying <b>real-time inference systems</b> using Python, Flask, and SQL.
+AI Engineer with <b>4+ years of experience</b> designing and deploying <b>machine learning, NLP, and Generative AI</b> solutions across financial services and enterprise environments.
 </p>
 
 <p align="center">
-Proven track record of improving data accuracy by <b>25%+</b> and reducing manual effort through automated workflows, feature engineering, and intelligent validation frameworks.
+Skilled in transforming large-scale structured and unstructured data into actionable business insights through <b>predictive modeling, risk analytics, customer intelligence, and intelligent automation</b>.
 </p>
 
 <p align="center">
-Experienced in <b>Multi-Agent Systems, RAG, LangGraph, LangChain, and OpenAI SDKs</b> — building production-ready AI solutions that enhance scalability and user insights.
+Experienced in building end-to-end AI pipelines, developing <b>credit risk, fraud detection, forecasting, and customer segmentation models</b>, and implementing <b>LLM and RAG-based applications</b> that enhance decision-making, operational efficiency, and customer experience.
 </p>
 
 ---
@@ -43,54 +51,94 @@ Experienced in <b>Multi-Agent Systems, RAG, LangGraph, LangChain, and OpenAI SDK
 
 <p align="center">
 
+<b>Languages:</b><br>
 <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python">
 <img src="https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=mysql">
-<img src="https://img.shields.io/badge/FastAPI-teal?style=for-the-badge&logo=fastapi">
-<img src="https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit">
+<img src="https://img.shields.io/badge/R-blue?style=for-the-badge&logo=r">
+<img src="https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnubash">
+<img src="https://img.shields.io/badge/PySpark-orange?style=for-the-badge&logo=apachespark">
+<img src="https://img.shields.io/badge/Scala-red?style=for-the-badge&logo=scala">
 
-<br>
+<br><br>
 
+<b>AI / ML / GenAI:</b><br>
+<img src="https://img.shields.io/badge/Machine_Learning-yellow?style=for-the-badge">
+<img src="https://img.shields.io/badge/Deep_Learning-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/NLP-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/LLMs-black?style=for-the-badge">
+<img src="https://img.shields.io/badge/Generative_AI-purple?style=for-the-badge">
+<img src="https://img.shields.io/badge/RAG-blueviolet?style=for-the-badge">
+<img src="https://img.shields.io/badge/AI_Agents-darkblue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Fine--Tuning-teal?style=for-the-badge">
+<img src="https://img.shields.io/badge/Prompt_Engineering-lightgrey?style=for-the-badge">
+<img src="https://img.shields.io/badge/Explainable_AI (XAI)-grey?style=for-the-badge">
+
+<br><br>
+
+<b>Frameworks & Tools:</b><br>
+<img src="https://img.shields.io/badge/Scikit--learn-orange?style=for-the-badge&logo=scikitlearn">
+<img src="https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow">
+<img src="https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch">
+<img src="https://img.shields.io/badge/Hugging_Face-yellow?style=for-the-badge&logo=huggingface">
 <img src="https://img.shields.io/badge/LangChain-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/LangGraph-purple?style=for-the-badge">
-<img src="https://img.shields.io/badge/CrewAI-darkblue?style=for-the-badge">
-<img src="https://img.shields.io/badge/OpenAI_SDK-black?style=for-the-badge&logo=openai">
+<img src="https://img.shields.io/badge/LlamaIndex-teal?style=for-the-badge">
+<img src="https://img.shields.io/badge/FastAPI-teal?style=for-the-badge&logo=fastapi">
+<img src="https://img.shields.io/badge/MLflow-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker">
+<img src="https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes">
+<img src="https://img.shields.io/badge/NLTK-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge&logo=githubactions">
+<img src="https://img.shields.io/badge/Jenkins-red?style=for-the-badge&logo=jenkins">
+<img src="https://img.shields.io/badge/GitLab_CI%2FCD-orange?style=for-the-badge&logo=gitlab">
 
-<br>
+<br><br>
 
-<img src="https://img.shields.io/badge/ChromaDB-green?style=for-the-badge">
-<img src="https://img.shields.io/badge/RAG-blueviolet?style=for-the-badge">
-<img src="https://img.shields.io/badge/DuckDB-yellow?style=for-the-badge">
-<img src="https://img.shields.io/badge/REST_APIs-blue?style=for-the-badge">
-
-<br>
-
-<img src="https://img.shields.io/badge/Power_BI-yellow?style=for-the-badge&logo=powerbi">
-<img src="https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoftazure">
-<img src="https://img.shields.io/badge/Snowflake-lightblue?style=for-the-badge">
+<b>Cloud & Data:</b><br>
+<img src="https://img.shields.io/badge/AWS_SageMaker-orange?style=for-the-badge&logo=amazonaws">
+<img src="https://img.shields.io/badge/AWS_S3-orange?style=for-the-badge&logo=amazons3">
+<img src="https://img.shields.io/badge/AWS_EC2-orange?style=for-the-badge&logo=amazonec2">
+<img src="https://img.shields.io/badge/Azure_ML-blue?style=for-the-badge&logo=microsoftazure">
+<img src="https://img.shields.io/badge/Databricks-red?style=for-the-badge&logo=databricks">
+<img src="https://img.shields.io/badge/Apache_Spark-orange?style=for-the-badge&logo=apachespark">
+<img src="https://img.shields.io/badge/Airflow-teal?style=for-the-badge&logo=apacheairflow">
+<img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql">
+<img src="https://img.shields.io/badge/Snowflake-lightblue?style=for-the-badge&logo=snowflake">
+<img src="https://img.shields.io/badge/Pinecone-black?style=for-the-badge">
+<img src="https://img.shields.io/badge/FAISS-grey?style=for-the-badge">
 
 </p>
 
 <p align="center">
-<b>AI Capabilities:</b> Prompt Engineering • Function Calling • RAG • Guardrails • Multi-Agent Systems • Task Planning • Tool-Augmented Reasoning • AI Workflow Orchestration
-</p>
-
-<p align="center">
-<b>Data & ML:</b> Pandas • NumPy • Scikit-learn • Feature Engineering • Embeddings • Semantic Search • Document Chunking • Similarity Search
+<b>MLOps & Practices:</b> CI/CD • LLMOps • ETL Pipelines • Model Deployment • Agile/Scrum • A/B Testing • GDPR • SOC 2
 </p>
 
 ---
 
 <h2 align="center">💼 PROFESSIONAL EXPERIENCE</h2>
 
-<h3>Application Development Analyst — Accenture</h3>
+<h3>AI Engineer — USAA</h3>
+<p><b>USA | Jan 2025 – Present</b></p>
+
+<ul>
+<li>Engineered <b>ETL pipelines</b> (Python, SQL) processing <b>400+ GB of financial data weekly</b> across <b>2M+ member records</b>, powering downstream AI risk-analytics models.</li>
+<li>Implemented ML models for <b>credit risk scoring, behavioral analysis, fraud detection, and customer segmentation</b> across <b>1.5M+ active members</b> to improve risk assessment and personalization.</li>
+<li>Designed <b>NLP pipelines</b> for financial document classification and <b>RAG-based retrieval</b> over <b>3M+ records</b>, significantly reducing manual lookup time.</li>
+<li>Fine-tuned <b>LLM-based solutions</b> for query resolution, report summarization, and personalized recommendations, enhancing member-facing application experiences.</li>
+<li>Architected <b>real-time risk-scoring pipelines</b> handling <b>80,000+ events/hour</b> on AWS SageMaker and optimized model performance using feature engineering, hyperparameter tuning, MLflow, and CloudWatch monitoring.</li>
+<li>Automated analytics reporting across <b>6M+ interaction records</b> and delivered AI-powered capabilities to production through cross-functional collaboration.</li>
+</ul>
+
+<h3>Data Scientist — HCL Tech</h3>
 <p><b>India | May 2021 – Dec 2023</b></p>
 
 <ul>
-<li>Analyzed <b>large-scale telecom datasets (millions of records)</b> using SQL and Python for proactive monitoring of network performance and SLA adherence.</li>
-<li>Designed <b>enterprise-grade Power BI dashboards</b> using DAX and Power Query, improving reporting efficiency by <b>30%</b>.</li>
-<li>Engineered end-to-end <b>automation pipelines</b> for data extraction, validation, and reporting — eliminating manual work and saving <b>14+ hours/week</b>.</li>
-<li>Led root-cause analysis of production incidents achieving a <b>95% resolution rate</b> within SLA.</li>
-<li>Partnered across engineering, QA, and operations to define scalable KPIs and implement data quality frameworks.</li>
+<li>Collaborated with Product and Business teams to convert customer analytics, personalization, and demand forecasting requests into targeted data science projects tied to specific business objectives.</li>
+<li>Developed customer, transactional, and clickstream datasets ready for immediate analysis by constructing <b>Python/SQL pipelines on Apache Spark and Azure Blob Storage</b>, reducing data preparation time for modeling teams.</li>
+<li>Identified customer retention and revenue drivers through pattern recognition, feature engineering, and statistical analysis of behavioral and transactional data.</li>
+<li>Improved demand forecasting and churn modeling to enhance merchandising and targeting precision by developing customer segmentation models.</li>
+<li>Designed and developed customer engagement and risk detection/tracking models using behavior and transaction data.</li>
+<li>Developed <b>MLflow</b> data pipelines with experiment tracking and performance monitoring, and converted findings into <b>Tableau</b> workbooks to promote data-driven decisions among stakeholders.</li>
 </ul>
 
 ---
@@ -120,9 +168,9 @@ Experienced in <b>Multi-Agent Systems, RAG, LangGraph, LangChain, and OpenAI SDK
 <h2 align="center">🤖 AI EXPERTISE</h2>
 
 <p align="center">
-Multi-Agent Systems • Retrieval-Augmented Generation (RAG) • Prompt Engineering • Function Calling  
-AI Workflow Orchestration • Task Planning • Tool-Augmented Reasoning • Semantic Search  
-Vector Databases • LLM Fine-Tuning • Guardrails • Embeddings • Real-Time Inference
+Machine Learning • Deep Learning • NLP • LLMs • Generative AI • RAG • AI Agents<br>
+Fine-Tuning • Prompt Engineering • Predictive Analytics • Explainable AI (XAI)<br>
+Vector Databases (Pinecone, FAISS) • Semantic Search • Embeddings • Real-Time Inference
 </p>
 
 ---
@@ -138,22 +186,6 @@ The University of Texas at Dallas, USA
 
 <b>Bachelor of Engineering – Electronics and Instrumentation Engineering</b><br>
 Anna University, India
-
-</p>
-
----
-
-<h2 align="center">📜 CERTIFICATIONS</h2>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/SnowPro-Associate_Platform-29B5E8?style=for-the-badge&logo=snowflake">
-
-<img src="https://img.shields.io/badge/Power_BI-Data_Analyst_Associate_(PL--300)-F2C811?style=for-the-badge&logo=powerbi">
-
-<img src="https://img.shields.io/badge/Azure-Administrator_Associate_(AZ--104)-0089D6?style=for-the-badge&logo=microsoftazure">
-
-<img src="https://img.shields.io/badge/Azure-Fundamentals_(AZ--900)-0089D6?style=for-the-badge&logo=microsoftazure">
 
 </p>
 
@@ -175,7 +207,9 @@ Anna University, India
 
 <p align="center">
 
-<b>Email:</b> shanmathyravisankaran03@gmail.com
+<b>Email:</b> shanmathy.ravi99@gmail.com
+
+<b>Phone:</b> 254-321-2543
 
 <b>Location:</b> Texas, USA
 
