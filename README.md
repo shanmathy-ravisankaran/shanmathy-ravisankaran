@@ -209,7 +209,7 @@ Anna University, India
 
 <b>Email:</b> shanmathy.ravi99@gmail.com
 
-<b>Phone:</b> 254-321-2543
+<b>Phone:</b> +1 512-961-6569
 
 <b>Location:</b> Texas, USA
 
