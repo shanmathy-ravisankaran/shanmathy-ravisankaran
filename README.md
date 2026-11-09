@@ -155,21 +155,27 @@ Fine-Tuning • Prompt Engineering • Predictive Analytics • Explainable AI<b
 Vector Databases • Semantic Search • Embeddings • Real-Time Inference
 </p>
 
+
 ---
 
 <h2 align="center">🎓 EDUCATION</h2>
 
-<p align="center">
-<b>Master of Science — Information Technology & Management</b><br>
-The University of Texas at Dallas, USA
+<div align="center">
 
-<br><br>
+  <p>
+    <b>Master of Science — Information Technology & Management</b><br>
+    The University of Texas at Dallas, USA
+  </p>
 
-<b>Bachelor of Engineering — Electronics and Instrumentation Engineering</b><br>
-Anna University, India
-</p>
+  <p>
+    <b>Bachelor of Engineering — Electronics and Instrumentation Engineering</b><br>
+    Anna University, India
+  </p>
+
+</div>
 
 ---
+
 
 <h2 align="center">📊 GITHUB ANALYTICS</h2>
 
@@ -186,7 +192,7 @@ Anna University, India
 <h2 align="center">📬 CONNECT WITH ME</h2>
 
 <p align="center">
-<b>Email:</b> <a href="mailto:shanmathy.ravi99@gmail.com">shanmathy.ravi99@gmail.com</a><br>
+<b>Email:</b> <a href="mailto:shanmathy.ravisankaran310@gmail.com">shanmathy.ravisankaran310@gmail.com</a><br>
 <b>Phone:</b> <a href="tel:+15126866394">+1 (512) 686-6394</a><br>
 <b>Location:</b> Texas, USA<br>
 <b>GitHub:</b> <a href="https://github.com/shanmathy-ravisankaran">shanmathy-ravisankaran</a>
