@@ -9,7 +9,7 @@ Designing intelligent, scalable, and reliable AI systems through machine learnin
 ---
 
 <p align="center">
-<a href="mailto:shanmathy.ravi99@gmail.com">
+<a href="mailto:shanmathy.ravisankaran310@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail">
 </a>
 
